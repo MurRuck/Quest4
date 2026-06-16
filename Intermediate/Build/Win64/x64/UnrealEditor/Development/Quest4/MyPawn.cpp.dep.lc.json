@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\quest4\\source\\quest4\\mypawn.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\quest4\\intermediate\\build\\win64\\x64\\quest4editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\quest4\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\quest4\\definitions.quest4.h",
+            "d:\\unreal\\quest4\\source\\quest4\\mypawn.h",
+            "d:\\unreal\\quest4\\intermediate\\build\\win64\\unrealeditor\\inc\\quest4\\uht\\mypawn.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

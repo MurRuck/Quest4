@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal\\Quest4\\Source\\Quest4\\Quest4.Build.cs",
+		"D:\\Unreal\\Quest4\\Source\\Quest4.Target.cs",
+		"D:\\Unreal\\Quest4\\Source\\Quest4Editor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

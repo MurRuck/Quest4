@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Quest4",
+			"Path": "..\\Source\\Quest4.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Quest4Editor",
+			"Path": "..\\Source\\Quest4Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

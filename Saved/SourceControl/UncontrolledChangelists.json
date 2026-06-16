@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal/Quest4/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal/Quest4/Content/BP/BP_GameModeBase.uasset",
+				"D:/Unreal/Quest4/Content/BP/BP_MyPawn.uasset",
+				"D:/Unreal/Quest4/Content/Input/IA_Look.uasset",
+				"D:/Unreal/Quest4/Content/Input/IA_Move.uasset",
+				"D:/Unreal/Quest4/Content/Input/IA_Vertical.uasset",
+				"D:/Unreal/Quest4/Content/Input/IMC_Pawn.uasset",
+				"D:/Unreal/Quest4/Content/Input/IA_Roll.uasset"
+			]
+		}
+	]
+}
